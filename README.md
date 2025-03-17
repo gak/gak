@@ -1,5 +1,8 @@
-# Hi, I'm gak!
+# Hi, I'm gak! 👋
 
-I'm mostly a 🎮 game developer these days.
+I'm mostly a 🎮 game developer 🎮 these days.
 
-I'm working on a game called 👽 **Grabby Aliens**: https://grabby.gg/
+## Current projects
+
+- 👽 **Grabby Aliens**: https://grabby.gg/
+  - A sci-fi colony and physics game, in development.  
